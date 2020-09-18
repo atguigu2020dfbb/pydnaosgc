@@ -1,0 +1,173 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pydnaosgc:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/pydnaosgc_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pydnaosgc" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="ezmorph-1.0.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="json-lib-2.4-jdk15.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-codec-1.10.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-collections4-4.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-logging-1.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="curvesapi-1.04.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="junit-4.12.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="poi-3.17.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="poi-examples-3.17.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="poi-excelant-3.17.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="poi-ooxml-3.17.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="poi-ooxml-schemas-3.17.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="poi-scratchpad-3.17.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="xmlbeans-2.6.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activation-1.1.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activiti-bpmn-converter-5.21.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activiti-bpmn-model-5.21.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activiti-common-rest-5.21.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activiti-engine-5.21.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activiti-image-generator-5.21.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activiti-json-converter-5.21.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activiti-modeler-5.21.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activiti-process-validation-5.21.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="activiti-spring-5.21.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-anim-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-awt-util-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-bridge-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-codec-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-css-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-dom-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-ext-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-gvt-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-js-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-parser-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-script-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-svg-dom-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-svggen-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-transcoder-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-util-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="batik-xml-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jackson-annotations-2.4.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jackson-core-2.4.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jackson-databind-2.4.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jackson-jaxrs-base-2.4.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jackson-jaxrs-json-provider-2.4.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jackson-module-jaxb-annotations-2.4.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="java-uuid-generator-3.1.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="javaGeom-0.11.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="javax.enterprise.concurrent-api-1.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="javax.persistence-1.0.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="javax.transaction-1.1.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="joda-time-2.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="knowledge-api-5.5.0.Final.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="xml-apis-1.3.04.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="xml-apis-ext-1.3.04.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="ant-1.6.5.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="aopalliance-1.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="asm-3.3.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="cglib-2.2.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-beanutils-1.9.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-chain-1.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-codec-1.6.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-collections-3.2.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-dbcp-1.4.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-digester-2.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-email-1.3.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-fileupload-1.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-io-2.4.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-lang-2.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-lang3-3.3.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-logging-1.1.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-pool-1.6.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="commons-pool2-2.4.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="dom4j-1.6.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="ehcache-2.7.4.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="ehcache-jgroupsreplication-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="gentlyweb-utils-1.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="gson-2.2.4.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="guava-17.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="h2-1.4.189.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="httpclient-4.5.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="httpcore-4.4.4.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="httpmime-4.5.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="groovy-all-2.0.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="iText-2.1.7.js2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="iTextAsian-2.1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="iTextAsianCmaps.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jasperreports-6.1.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jasperreports-fonts-6.1.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jasperreports-javaflow-6.1.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jcommon-1.0.15.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jfreechart-1.0.12.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="poi-3.10.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="javassist-3.17.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="javax.el-2.2.0.v201108011116.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jaxen-1.1.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="mysql-connector-java-5.0.22.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="ojdbc6.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="postgresql-9.3-jdbc4-jdk6.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="sqljdbc4.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jedis-2.7.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jgroups-3.6.3.Final.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="josql-2.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jsr305-1.3.9.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jstl-1.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="junit-4.9.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="log4j-1.2.17.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="log4j-api-2.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="lucene-core-3.6.2-javadoc.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="lucene-core-3.6.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="lucene-highlighter-3.6.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="metadata-extractor-2.11.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="mybatis-3.3.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="ognl-2.6.9.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="pdfbox-app-2.0.8.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="quartz-all-2.1.5.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="slf4j-api-1.7.5.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="slf4j-log4j12-1.7.5.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-aop-4.1.5.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-aspects-3.2.4.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-beans-4.1.5.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-context-4.1.5.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-context-support-3.2.4.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-core-4.1.5.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-expression-4.1.5.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-instrument-3.2.4.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-jdbc-3.2.4.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-jms-3.2.4.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-orm-3.2.4.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-oxm-3.2.4.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-security-config-3.2.3.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-security-core-3.2.3.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-security-crypto-3.2.3.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-security-web-3.2.3.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-test-3.2.4.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-tx-4.1.5.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-web-4.1.5.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-webmvc-4.1.5.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="spring-webmvc-portlet-3.2.4.RELEASE.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="standard.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="antlr4-runtime-4.5.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="core-3.3.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="WebRoot/WEB-INF/lib/ureport2/curvesapi-1.04.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="itextpdf-5.5.10.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jackson-core-asl-1.9.11.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="jackson-mapper-asl-1.9.11.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="ooxml-schemas-1.3.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="stax-api-1.0.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="ureport2-console-2.2.8.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="ureport2-core-2.2.8.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="ureport2-font-2.0.1.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="velocity-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="xml-apis-1.0.b2.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="xmlbeans-2.3.0.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="WebRoot/WEB-INF/lib/velocity-1.7.jar" module-name="pydnaosgc" />
+          <element id="library" level="module" name="xmpcore-5.1.2.jar" module-name="pydnaosgc" />
+          <element id="library" level="project" name="jedis-2.8.1" />
+          <element id="library" level="project" name="spring-data-redis-1.7.1.RELEASE" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="pydnaosgc/web/Web" />
+    </root>
+  </artifact>
+</component>
